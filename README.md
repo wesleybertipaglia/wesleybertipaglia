@@ -24,7 +24,7 @@
 </div>
 
 <div id="social">
-  <p>Redes Sociais</p><br>
+  <h2 style="color:#34d058;">Redes Sociais</h2><br>
   <a href="https://www.youtube.com/channel/UCHy_HXdqB2woHjfeTxZjRqA" target="_blank"> 
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>  
@@ -40,8 +40,4 @@
   <a href="https://discord.gg/ZffJBhH7" target="_blank"> 
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>  
-</div>
- 
-<div id="Snake">
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
