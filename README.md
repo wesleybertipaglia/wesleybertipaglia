@@ -20,4 +20,25 @@
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+</div>
+
+<div>
+  <p>Redes Sociais</p><br>
+  <a href="https://www.youtube.com/channel/UCHy_HXdqB2woHjfeTxZjRqA" target="_blank"> 
+    <img alt="Youtube" src=""/>
+  </a>  
+  <a href="https://www.linkedin.com/in/wesley-bertipaglia-095768148/" target="_blank"> 
+    <img alt="Linkedln" src=""/>
+  </a> 
+  <a href="twitter.com/wesleyberti_" target="_blank"> 
+    <img alt="Twitter" src=""/>
+  </a>
+  <a href="www.instagram.com/wesleyberti_" target="_blank"> 
+    <img alt="Instagram" src=""/>
+  </a>
+  <a href="https://discord.gg/ZffJBhH7" target="_blank"> 
+    <img alt="Discord" src=""/>
+  </a>  
+</div>
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
