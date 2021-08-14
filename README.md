@@ -25,19 +25,19 @@
 <div>
   <p>Redes Sociais</p><br>
   <a href="https://www.youtube.com/channel/UCHy_HXdqB2woHjfeTxZjRqA" target="_blank"> 
-    <img alt="Youtube" src=""/>
+    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>  
   <a href="https://www.linkedin.com/in/wesley-bertipaglia-095768148/" target="_blank"> 
-    <img alt="Linkedln" src=""/>
+    <img alt="Linkedln" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
   <a href="twitter.com/wesleyberti_" target="_blank"> 
-    <img alt="Twitter" src=""/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="www.instagram.com/wesleyberti_" target="_blank"> 
-    <img alt="Instagram" src=""/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/ZffJBhH7" target="_blank"> 
-    <img alt="Discord" src=""/>
+    <img alt="Discord" src="https://img.shields.io/badge/disord-message-purple"/>
   </a>  
 </div>
   
