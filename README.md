@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente estou procurando estágio 
+- 🔭 Atualmente estou à procura de estágio 
 - 🌱 Estou estudando Python, PHP e TypeScript
 - 👯 Gostaria de colaborar em projetos Front-end 
 - 🤔 Presto ajudas em JavaScript, HTML and CSS
