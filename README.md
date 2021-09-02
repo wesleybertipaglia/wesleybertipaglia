@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou à procura de estágio 
 - 🌱 Estou estudando Python, PHP e TypeScript
 - 👯 Gostaria de colaborar em projetos Front-end 
-- 🤔 Presto ajudas em JavaScript, HTML and CSS
+- 🤔 Presto ajudas em JavaScript, HTML e CSS
 - 💬 Pergunte me alguma coisa...
 - 📫 Contato: wesleybertipaglia@gmail.com
 - 😄 Pronouns: ele/dele
