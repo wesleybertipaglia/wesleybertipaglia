@@ -1,13 +1,12 @@
 ### Olá 👋
-
-- 🔭 Atualmente estou à procura de estágio 
+- 👨‍💻 Full Stack JavaScript em progresso 
+- 🔭 Atualmente estou à procura de um estágio 
 - 🌱 Estou estudando Python, PHP e TypeScript
-- 👯 Gostaria de colaborar em projetos Front-end 
-- 🤔 Presto ajudas em JavaScript, HTML e CSS
+- 👯 Gostaria de colaborar em projetos de desenvolvimento Front-end
+- 🤔 Presto ajudas em JavaScript, HTML, CSS, markdown, git
 - 💬 Pergunte me alguma coisa...
 - 📫 Contato: wesleybertipaglia@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Amo arte, surf, musica e viajar.
 
 <div id="stats">
   <a href="https://github.com/wesleybertipaglia">
