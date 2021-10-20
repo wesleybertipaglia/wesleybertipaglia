@@ -1,9 +1,6 @@
 ### Olá 👋
-- 👨‍💻 Full Stack JavaScript em progresso 
-- 🔭 Atualmente estou à procura de um estágio 
-- 🌱 Estou estudando Python, PHP e TypeScript
-- 👯 Gostaria de colaborar em projetos de desenvolvimento Front-end
-- 🤔 Presto ajudas em JavaScript, HTML, CSS, markdown, git
+- 👨‍💻 Desenvolvedor front-end
+- 🌱 Estudando para me tornar Full Stack em JavaScript
 - 💬 Pergunte me alguma coisa...
 - 📫 Contato: wesleybertipaglia@gmail.com
 - ⚡ Fun fact: Amo arte, surf, musica e viajar.
@@ -14,12 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybertipaglia&layout=compact&langs_count=7&theme=dark">
 </div>
 
-<div id="languages" style="display: inline_block">
+<div id="languages">
   <br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div id="social">
