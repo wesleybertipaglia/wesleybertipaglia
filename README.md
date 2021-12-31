@@ -1,6 +1,6 @@
 ### Olá 👋
 - 👨‍💻 Desenvolvedor front-end
-- 🌱 Estudando para me tornar Full Stack em JavaScript
+- 🌱 Estudando para me tornar Desenvolvedor Web Full Stack
 - 💬 Pergunte me alguma coisa...
 - 📫 Contato: wesleybertipaglia@gmail.com
 - ⚡ Fun fact: Amo arte, surf, musica e viajar.
