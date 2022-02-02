@@ -1,5 +1,5 @@
 ### Olá 👋
-- 👨‍💻 Desenvolvedor front-end
+- 👨‍💻 Estudante de informática para negócios na FATEC RP
 - 🌱 Estudando para me tornar Desenvolvedor Web Full Stack
 - 💬 Pergunte me alguma coisa...
 - 📫 Contato: wesleybertipaglia@gmail.com
