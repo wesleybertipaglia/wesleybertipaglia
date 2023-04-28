@@ -18,7 +18,8 @@
 - OS: Linux <3, Windows
 
 <div id="social">
-  <h2 style="color:#34d058;">Redes Sociais</h2><br>
+  <h2 style="color:#34d058;">Socials</h2><br>
+  <a href="https://linktr.ee/wesleybertipaglia" target="_blank">Linktr</a>
   <a href="https://www.youtube.com/channel/UCHy_HXdqB2woHjfeTxZjRqA" target="_blank">Youtube</a>  
   <a href="https://www.linkedin.com/in/wesley-bertipaglia-095768148/" target="_blank">Linkedin</a> 
   <a href="https://www.twitter.com/wesleyberti_" target="_blank">Twitter</a>
