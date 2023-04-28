@@ -1,9 +1,21 @@
-### Olá 👋
-- 👨‍💻 Estudante de informática para negócios na FATEC RP
-- 🌱 Estudando para me tornar Desenvolvedor Web Full Stack
-- 💬 Pergunte me alguma coisa...
-- 📫 Contato: wesleybertipaglia@gmail.com
-- ⚡ Fun fact: Amo arte, esportes, musica e viajar.
+# Hello 👋
+- 👨‍💻 Business IT student at FATEC RP
+- 🌱 Studying to become a Full Stack Web Developer
+- 💬 Ask me something...
+- 📫 Contact: wesleybertipaglia@gmail.com
+- 📸 Social networks: https://linktr.ee/wesleybertipaglia
+
+## Working on
+- Nodejs, Nextjs, Reactjs, MongoDB
+
+## My main skills:
+- Web: HTML, CSS, JavaScript, PHP, HTTP, JSON, AJAX
+- Style: SaaS, Tailwind, Bootstrap
+- Libs: JQuery
+- DataBases: SQL (MySql, MariaDB, SQL Server)
+- Versioning: GIT, GitHub, Azure
+- Prototyping: Figma, Penpot
+- OS: Linux <3, Windows
 
 <div id="social">
   <h2 style="color:#34d058;">Redes Sociais</h2><br>
