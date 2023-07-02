@@ -3,7 +3,7 @@
 - 🌱 Studying to become a Full Stack Web Developer
 - 💬 Ask me something...
 - 📫 Contact: <a href="https://www.linkedin.com/in/wesley-bertipaglia-095768148/" target="_blank">Linkedin</a>
-- 📸 Social networks: <a href="https://linktr.ee/wesleybertipaglia" target="_blank">Linktr</a>
+- 📸 Social networks: <a href="https://links-hub-wesley.vercel.app/" target="_blank">Hub of Links</a>
 
 ## Working on
 - Nodejs, Express, Nextjs, Reactjs, MongoDB, and more...
