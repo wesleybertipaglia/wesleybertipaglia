@@ -1,4 +1,4 @@
-### Hello, I'm Wesley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi there 👋
 - 👨‍💻 Full Stack Web Developer
 - 🌱 Business IT student at FATEC RP
 - 💬 Ask me something... 
