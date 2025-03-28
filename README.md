@@ -1,5 +1,7 @@
 ### Hi, I'm Wesley 👋
-I'm a Full stack web developer from 🇧🇷, passionate about technology and loves creating cool things.
+
+Software Engineer from Brazil 🇧🇷 with experience in backend development and distributed systems. Soon starting my Computer Science degree while actively contributing to open-source projects and preparing for international opportunities.
+
 - 💬 Ask me something...
 - 📚 Education: Bachelor of Technology, IT for Business at @FATEC
 - 📫 Contact: [E-mail](mailto:wesleybertipaglia@gmail.com) or [Linkedin](https://www.linkedin.com/in/wesley-bertipaglia)
